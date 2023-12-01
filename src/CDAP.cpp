@@ -22,9 +22,9 @@ struct Parametres {
     int **  flot;        // matrice de nombre de palettes prevu de m a n
     int **  dist;        // matrice de distance entre quai i et j
     int *   s;           // vecteur de nombre de palettes sortant des m fournisseurs
-    int *   S;           // vecteur de capacite des i quais en entree de l'entrepot
+    int *   S;           // vecteur de capacite des i quais en entree du terminal
     int *   r;           // vecteur de nombre de palettes entrant dans les n magasins
-    int *   R;           // vecteur de capacite des j quais en sortie de l'entrepot
+    int *   R;           // vecteur de capacite des j quais en sortie du terminal
 };
 
 // prototypes -----------------------------------------------------------------
