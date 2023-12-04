@@ -1,5 +1,5 @@
 # odcCDAP
-Cross-dock Door assignment problem. 
+Cross-dock Door Assignment Problem (CDAP). 
 
 Material for students.
 - slides of presentation
